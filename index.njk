@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+title: Final Fantasy XIII - Treasure Chest Guide
+---
+<label>
+    Hide found treasures
+    <input type="checkbox" id="hideToggle">
+</label>
+
+<table id="treasureDataTable">
+    <caption>Treasure chests</caption>
+    <tr>
+        <th></th>
+        <th>Chapter</th>
+        <th>Content</th>
+        <th>Location</th>
+        <th>Map</th>
+        <th>Area</th>
+    </tr>
+    {%- for treasure in treasureList -%}
+        <tr class="treasure" data-hash={{ treasure.hashCode }}>
+            <td>
+                <label><input type="checkbox" name="status"/></label>
+            </td>
+            <td>{{ treasure.chapter }}</td>
+            <td>{{ treasure.contents }}</td>
+            <td>{{ treasure.location }}</td>
+            <td>{{ treasure.map }}</td>
+            <td>{{ treasure.area }}</td>
+        </tr>
+    {%- endfor -%}
+</table>

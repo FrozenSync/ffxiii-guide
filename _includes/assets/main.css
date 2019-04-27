@@ -1,0 +1,11 @@
+.found {
+	background-color: #1f3820;
+}
+
+tbody tr:nth-child(2n).found {
+	background-color: #152615;
+}
+
+.hidden {
+  display: none;
+}

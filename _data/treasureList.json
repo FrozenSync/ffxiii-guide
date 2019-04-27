@@ -1,0 +1,2962 @@
+[
+  {
+    "chapter": 1,
+    "contents": "Potion",
+    "location": "In plain sight on the main path",
+    "map": "Aerorail Trussway 13-E",
+    "area": "The Hanging Edge",
+    "hashCode": -22153851
+  },
+  {
+    "chapter": 1,
+    "contents": "2 Potions",
+    "location": "On a platform to the right of the main path",
+    "map": "Aerorail Trussway 12-E",
+    "area": "The Hanging Edge",
+    "hashCode": 1756183254
+  },
+  {
+    "chapter": 1,
+    "contents": "Iron Bangle",
+    "location": "On a platform to the left of the main path",
+    "map": "Aerorail Trussway 12-E",
+    "area": "The Hanging Edge",
+    "hashCode": 1264263526
+  },
+  {
+    "chapter": 1,
+    "contents": "50 Gil",
+    "location": "In a niche on the main path behind the beginning of the map",
+    "map": "Aerorail Trussway 11-E",
+    "area": "The Hanging Edge",
+    "hashCode": -305695918
+  },
+  {
+    "chapter": 1,
+    "contents": "50 Gil",
+    "location": "Behind Snow's starting point",
+    "map": "Aerorail Trussway 5-W",
+    "area": "The Hanging Edge",
+    "hashCode": -1029738225
+  },
+  {
+    "chapter": 1,
+    "contents": "Iron Bangle",
+    "location": "Left of Snow's starting point after the cutscene",
+    "map": "Aerorail Trussway 6-W",
+    "area": "The Hanging Edge",
+    "hashCode": -840303589
+  },
+  {
+    "chapter": 1,
+    "contents": "Power Circle",
+    "location": "In plain sight on the main path",
+    "map": "Aerorail Trussway 3-N",
+    "area": "The Hanging Edge",
+    "hashCode": 1273942953
+  },
+  {
+    "chapter": 1,
+    "contents": "100 Gil",
+    "location": "In a niche in the middle of the S-shaped platform sequence",
+    "map": "Aerorail Trussway 3-N",
+    "area": "The Hanging Edge",
+    "hashCode": -1899513546
+  },
+  {
+    "chapter": 2,
+    "contents": "30 Gil",
+    "location": "In the area behind Vanille's starting point",
+    "map": "Sacrarium",
+    "area": "The Pulse Vestige",
+    "hashCode": -262197
+  },
+  {
+    "chapter": 2,
+    "contents": "4 Potions",
+    "location": "On the left side of the raised area, guarded by Zwerg Scandroids",
+    "map": "Sacrarium",
+    "area": "The Pulse Vestige",
+    "hashCode": -54859025
+  },
+  {
+    "chapter": 2,
+    "contents": "Iron Bangle",
+    "location": "On the opposite side from Vanille's starting point",
+    "map": "Sacrarium",
+    "area": "The Pulse Vestige",
+    "hashCode": 724524930
+  },
+  {
+    "chapter": 2,
+    "contents": "2 Potions",
+    "location": "Beind Snow's starting point",
+    "map": "House of Stairs",
+    "area": "The Pulse Vestige",
+    "hashCode": -1334866501
+  },
+  {
+    "chapter": 2,
+    "contents": "Phoenix Down",
+    "location": "On the left side of the first open area, guarded by Zwerg Scandroids",
+    "map": "Ambulatory",
+    "area": "The Pulse Vestige",
+    "hashCode": -557557649
+  },
+  {
+    "chapter": 2,
+    "contents": "Gladius",
+    "location": "In the second open area",
+    "map": "Ambulatory",
+    "area": "The Pulse Vestige",
+    "hashCode": 914509327
+  },
+  {
+    "chapter": 2,
+    "contents": "2 Potions",
+    "location": "Behind Snow's starting point during the second scene in the area",
+    "map": "House of Stairs",
+    "area": "The Pulse Vestige",
+    "hashCode": -1707010786
+  },
+  {
+    "chapter": 2,
+    "contents": "Fortisol",
+    "location": "On central platform during the second scene in the area, guarded by Zwerg Scandroids",
+    "map": "Sacrarium",
+    "area": "The Pulse Vestige",
+    "hashCode": 153538506
+  },
+  {
+    "chapter": 2,
+    "contents": "100 Gil",
+    "location": "In plain sight on the main path, guarded by Pantherons",
+    "map": "Oblatorium",
+    "area": "The Pulse Vestige",
+    "hashCode": -994842027
+  },
+  {
+    "chapter": 2,
+    "contents": "Power Wristband",
+    "location": "On side path during second scene in the area, guarded by Ghouls",
+    "map": "Ambulatory",
+    "area": "The Pulse Vestige",
+    "hashCode": -110698200
+  },
+  {
+    "chapter": 2,
+    "contents": "5 Potions",
+    "location": "Across from the save point",
+    "map": "Anima's Throne",
+    "area": "The Pulse Vestige",
+    "hashCode": 1726254675
+  },
+  {
+    "chapter": 3,
+    "contents": "Serah's Tear",
+    "location": "Obtained at the start of Chapter 3, held by Snow",
+    "map": "The Waters Stilled",
+    "area": "Lake Bresha",
+    "hashCode": 842409076
+  },
+  {
+    "chapter": 3,
+    "contents": "Pearlwing Staff",
+    "location": "On a side path left of the main path",
+    "map": "The Waters Stilled",
+    "area": "Lake Bresha",
+    "hashCode": 768260131
+  },
+  {
+    "chapter": 3,
+    "contents": "7 Chipped Fangs",
+    "location": "On a platform right of the main path",
+    "map": "The Waters Stilled",
+    "area": "Lake Bresha",
+    "hashCode": -99314651
+  },
+  {
+    "chapter": 3,
+    "contents": "200 Gil",
+    "location": "In a small area right of the main path",
+    "map": "The Waters Stilled",
+    "area": "Lake Bresha",
+    "hashCode": 1039702357
+  },
+  {
+    "chapter": 3,
+    "contents": "5 Cie'th Tears",
+    "location": "On a broken bridge right of the main path",
+    "map": "Amid Timebound Waves",
+    "area": "Lake Bresha",
+    "hashCode": 713056933
+  },
+  {
+    "chapter": 3,
+    "contents": "Silver Bangle",
+    "location": "On a side path left of the main path",
+    "map": "Amid Timebound Waves",
+    "area": "Lake Bresha",
+    "hashCode": 1831847856
+  },
+  {
+    "chapter": 3,
+    "contents": "Phoenix Down",
+    "location": "In a small area left of the main path",
+    "map": "Amid Timebound Waves",
+    "area": "Lake Bresha",
+    "hashCode": -645511917
+  },
+  {
+    "chapter": 3,
+    "contents": "50 Gil",
+    "location": "On a hill right of the main path",
+    "map": "Amid Timebound Waves",
+    "area": "Lake Bresha",
+    "hashCode": 1616002859
+  },
+  {
+    "chapter": 3,
+    "contents": "8 Strange Fluids",
+    "location": "In shadows left of the main path",
+    "map": "Amid Timebound Waves",
+    "area": "Lake Bresha",
+    "hashCode": -1104679991
+  },
+  {
+    "chapter": 3,
+    "contents": "Magician's Mark",
+    "location": "Left of the main path, guarded by PSICOM troops",
+    "map": "Amid Timebound Waves",
+    "area": "Lake Bresha",
+    "hashCode": -47847237
+  },
+  {
+    "chapter": 3,
+    "contents": "6 Strange Fluids",
+    "location": "On a broken bridge right of the main path",
+    "map": "Encased in Crystal",
+    "area": "Lake Bresha",
+    "hashCode": 2080245448
+  },
+  {
+    "chapter": 3,
+    "contents": "240 Gil",
+    "location": "On a platform across the leftmost tube",
+    "map": "Encased in Crystal",
+    "area": "Lake Bresha",
+    "hashCode": 363830362
+  },
+  {
+    "chapter": 3,
+    "contents": "Deneb Duellers",
+    "location": "On a platform across the leftmost tube",
+    "map": "Encased in Crystal",
+    "area": "Lake Bresha",
+    "hashCode": -1671081878
+  },
+  {
+    "chapter": 3,
+    "contents": "6 Enigmatic Fluids",
+    "location": "On a platform backwards across the rightmost tube, guarded by various bass",
+    "map": "Encased in Crystal",
+    "area": "Lake Bresha",
+    "hashCode": -1841893264
+  },
+  {
+    "chapter": 3,
+    "contents": "7 Wicked Fangs",
+    "location": "On a hill right of the main path, guarded by Pantherons",
+    "map": "Encased in Crystal",
+    "area": "Lake Bresha",
+    "hashCode": 281982450
+  },
+  {
+    "chapter": 3,
+    "contents": "Librascope",
+    "location": "On a side path right of the main path after the save point",
+    "map": "Encased in Crystal",
+    "area": "Lake Bresha",
+    "hashCode": -2090033199
+  },
+  {
+    "chapter": 3,
+    "contents": "2 Digital Circuits",
+    "location": "On a ledge right of the main path before a bridge",
+    "map": "Encased in Crystal",
+    "area": "Lake Bresha",
+    "hashCode": 685783667
+  },
+  {
+    "chapter": 3,
+    "contents": "2 Paraffin Oils",
+    "location": "At the top of the right-side path up the falls",
+    "map": "The Frozen Falls",
+    "area": "Lake Bresha",
+    "hashCode": -546495282
+  },
+  {
+    "chapter": 3,
+    "contents": "50 Gil",
+    "location": "Near the point where the paths up the falls recombine",
+    "map": "The Frozen Falls",
+    "area": "Lake Bresha",
+    "hashCode": 1726273792
+  },
+  {
+    "chapter": 3,
+    "contents": "3 Insulated Cabling",
+    "location": "On a platform to the right from the top of the falls",
+    "map": "The Frozen Falls",
+    "area": "Lake Bresha",
+    "hashCode": -1515780507
+  },
+  {
+    "chapter": 3,
+    "contents": "30 Gil",
+    "location": "In plain sight on the main path",
+    "map": "The Mirrored Morass",
+    "area": "Lake Bresha",
+    "hashCode": -94845968
+  },
+  {
+    "chapter": 3,
+    "contents": "6 Begrimed Claws",
+    "location": "In an alcove right of the main path",
+    "map": "The Mirrored Morass",
+    "area": "Lake Bresha",
+    "hashCode": -282500078
+  },
+  {
+    "chapter": 3,
+    "contents": "600 Gil",
+    "location": "In an alcove just right of the entrance",
+    "map": "Gates of Antiquity",
+    "area": "Lake Bresha",
+    "hashCode": 1923898540
+  },
+  {
+    "chapter": 3,
+    "contents": "2 Digital Circuits",
+    "location": "In the far corner of the large open area",
+    "map": "Gates of Antiquity",
+    "area": "Lake Bresha",
+    "hashCode": -706501422
+  },
+  {
+    "chapter": 3,
+    "contents": "7 Begrimed Claws",
+    "location": "In an alcove right and back from the main path",
+    "map": "Forgotten Commons",
+    "area": "Lake Bresha",
+    "hashCode": -184441556
+  },
+  {
+    "chapter": 3,
+    "contents": "Spark Ring",
+    "location": "In a corner on the far side of the circular central room",
+    "map": "Forgotten Commons",
+    "area": "Lake Bresha",
+    "hashCode": -1385874778
+  },
+  {
+    "chapter": 3,
+    "contents": "3 Potions",
+    "location": "In an alcove to the left of the main path",
+    "map": "A City No Longer",
+    "area": "Lake Bresha",
+    "hashCode": -568592895
+  },
+  {
+    "chapter": 3,
+    "contents": "Millerite",
+    "location": "In plain sight on the long outer path",
+    "map": "A City No Longer",
+    "area": "Lake Bresha",
+    "hashCode": -1058267526
+  },
+  {
+    "chapter": 3,
+    "contents": "Ferroelectric Film",
+    "location": "On the upper right path after the secret passage, guarded by PSICOM troops",
+    "map": "A City No Longer",
+    "area": "Lake Bresha",
+    "hashCode": 1714189257
+  },
+  {
+    "chapter": 3,
+    "contents": "Phoenix Down",
+    "location": "Right of the save point",
+    "map": "Echoes of the Past",
+    "area": "Lake Bresha",
+    "hashCode": -208742628
+  },
+  {
+    "chapter": 3,
+    "contents": "2 Librascopes",
+    "location": "Left of the save point",
+    "map": "Echoes of the Past",
+    "area": "Lake Bresha",
+    "hashCode": 548395861
+  },
+  {
+    "chapter": 3,
+    "contents": "Up in Arms",
+    "location": "Additional drop from Garuda Interceptor",
+    "map": "Echoes of the Past",
+    "area": "Lake Bresha",
+    "hashCode": 610389726
+  },
+  {
+    "chapter": 3,
+    "contents": "Shiva Eidolith",
+    "location": "Additional drop from Stiria and Nix, held by Snow",
+    "map": "A Silent Maelstrom",
+    "area": "Lake Bresha",
+    "hashCode": 1395649227
+  },
+  {
+    "chapter": 4,
+    "contents": "Librascope",
+    "location": "In an alcove right of the save point, guarded by a Thexteron",
+    "map": "Wrack and Ruin",
+    "area": "The Vile Peaks",
+    "hashCode": 203511632
+  },
+  {
+    "chapter": 4,
+    "contents": "Black Belt",
+    "location": "In plain sight on the main path, near a group of enemies",
+    "map": "Another Man's Treasure",
+    "area": "The Vile Peaks",
+    "hashCode": 138623378
+  },
+  {
+    "chapter": 4,
+    "contents": "Ninurta",
+    "location": "On the right side of the top of the climbable area, guarded by a Pulsework Soldier",
+    "map": "Another Man's Treasure",
+    "area": "The Vile Peaks",
+    "hashCode": -1450106612
+  },
+  {
+    "chapter": 4,
+    "contents": "Phoenix Down",
+    "location": "In the save point alcove",
+    "map": "Munitions Necropolis",
+    "area": "The Vile Peaks",
+    "hashCode": 1577648829
+  },
+  {
+    "chapter": 4,
+    "contents": "Metal Armband",
+    "location": "In the save point alcove",
+    "map": "Munitions Necropolis",
+    "area": "The Vile Peaks",
+    "hashCode": -1383428296
+  },
+  {
+    "chapter": 4,
+    "contents": "Librascope",
+    "location": "Inside the right Pulsework Champion alcove after the second save point",
+    "map": "Devastated Dreams",
+    "area": "The Vile Peaks",
+    "hashCode": -702505896
+  },
+  {
+    "chapter": 4,
+    "contents": "Ember Ring",
+    "location": "On the right fork of the main path, guarded by Pulsework Soldiers",
+    "map": "Devastated Dreams",
+    "area": "The Vile Peaks",
+    "hashCode": -782199045
+  },
+  {
+    "chapter": 4,
+    "contents": "Lenora's Garage",
+    "location": "Additional drop from Dreadnought",
+    "map": "Devastated Dreams",
+    "area": "The Vile Peaks",
+    "hashCode": -400699893
+  },
+  {
+    "chapter": 4,
+    "contents": "3 Fiber-optic Cables",
+    "location": "On the left fork of the main path, guarded by Corps Regulars",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": -1928055422
+  },
+  {
+    "chapter": 4,
+    "contents": "Librascope",
+    "location": "In the looping side path right of the main path",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": -87039823
+  },
+  {
+    "chapter": 4,
+    "contents": "999 Gil",
+    "location": "Reward for 40 or more Pulse Armament sweeping blow kills",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": -1917896419
+  },
+  {
+    "chapter": 4,
+    "contents": "300 Gil",
+    "location": "Reward for 25-39 Pulse Armament sweeping blow kills",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": -806940495
+  },
+  {
+    "chapter": 4,
+    "contents": "100 Gil",
+    "location": "Reward for 24 or less Pulse Armament sweeping blow kills",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": 817173371
+  },
+  {
+    "chapter": 4,
+    "contents": "Spark Ring",
+    "location": "Reward for 35 or more Pulse Armament total kills",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": 801989743
+  },
+  {
+    "chapter": 4,
+    "contents": "20 Thickened Hides",
+    "location": "Reward for 25-34 Pulse Armament total kills",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": -306703801
+  },
+  {
+    "chapter": 4,
+    "contents": "10 Sturdy Bones",
+    "location": "Reward for 24 or less Pulse Armament total kills",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": 1278709403
+  },
+  {
+    "chapter": 4,
+    "contents": "2 Electrolytic Capacitors",
+    "location": "In plain sight in a tunnel on the main path",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": -622037957
+  },
+  {
+    "chapter": 4,
+    "contents": "Spark Ring",
+    "location": "On a bridge over the main path, guarded by an Uhlan and a Corps Regular",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": -736781687
+  },
+  {
+    "chapter": 4,
+    "contents": "Phoenix Down",
+    "location": "In the looping side path right of the main path",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": -278155650
+  },
+  {
+    "chapter": 4,
+    "contents": "Odin Eidolith",
+    "location": "Additional drop from Odin",
+    "map": "Scavenger's Trail",
+    "area": "The Vile Peaks",
+    "hashCode": 975835213
+  },
+  {
+    "chapter": 4,
+    "contents": "Phoenix Down",
+    "location": "Backtrack from Sazh's starting point",
+    "map": "Scrap Processing",
+    "area": "The Vile Peaks",
+    "hashCode": 533108876
+  },
+  {
+    "chapter": 4,
+    "contents": "Auric Amulet",
+    "location": "On a path to the right of the main path",
+    "map": "Scrap Processing",
+    "area": "The Vile Peaks",
+    "hashCode": -2107687576
+  },
+  {
+    "chapter": 4,
+    "contents": "Ember Ring",
+    "location": "In plain sight on the main path, guarded by Gremlins",
+    "map": "Scrap Processing",
+    "area": "The Vile Peaks",
+    "hashCode": -752554458
+  },
+  {
+    "chapter": 4,
+    "contents": "Phoenix Down",
+    "location": "On the right side path before the generator",
+    "map": "Scrap Processing",
+    "area": "The Vile Peaks",
+    "hashCode": 1800792231
+  },
+  {
+    "chapter": 4,
+    "contents": "Fortisol",
+    "location": "On the right side of the reactivated generator",
+    "map": "Scrap Processing",
+    "area": "The Vile Peaks",
+    "hashCode": -743228915
+  },
+  {
+    "chapter": 4,
+    "contents": "8 Iron Shells",
+    "location": "On the long upper platform in the first area accessible after reactivating the generator, guarded by Bombs",
+    "map": "Scrap Processing",
+    "area": "The Vile Peaks",
+    "hashCode": 1624886743
+  },
+  {
+    "chapter": 4,
+    "contents": "6 Vibrant Oozes",
+    "location": "On the lower platform in the first area accessible after reactivating the generator, guarded by Pulsework Soldiers",
+    "map": "Scrap Processing",
+    "area": "The Vile Peaks",
+    "hashCode": 1384141553
+  },
+  {
+    "chapter": 4,
+    "contents": "300 Gil",
+    "location": "In plain sight in exit tunnel",
+    "map": "Scrap Processing",
+    "area": "The Vile Peaks",
+    "hashCode": -1981725897
+  },
+  {
+    "chapter": 5,
+    "contents": "3 Antidotes",
+    "location": "On the other side of a barrier guarded by an Alpha Behemoth (loop around to reach it)",
+    "map": "Canopy Wardwalks",
+    "area": "The Gapra Whitewood",
+    "hashCode": 679020036
+  },
+  {
+    "chapter": 5,
+    "contents": "Hawkeye",
+    "location": "On a ledge right of the main path, guarded by Vespids",
+    "map": "Research Corridor",
+    "area": "The Gapra Whitewood",
+    "hashCode": 53372640
+  },
+  {
+    "chapter": 5,
+    "contents": "6 Antidotes",
+    "location": "In plain sight on the right side of the main area, guarded by Crawlers",
+    "map": "Bioweapon Research Site D",
+    "area": "The Gapra Whitewood",
+    "hashCode": -501366459
+  },
+  {
+    "chapter": 5,
+    "contents": "Star Pendant",
+    "location": "In the far right segment of the first main area, guarded by Silver Lobos",
+    "map": "Field Trial Range S",
+    "area": "The Gapra Whitewood",
+    "hashCode": -130039620
+  },
+  {
+    "chapter": 5,
+    "contents": "Edged Carbine",
+    "location": "On a ledge left of the main path, guarded by a Barbed Specter",
+    "map": "Field Trial Range N",
+    "area": "The Gapra Whitewood",
+    "hashCode": -589301837
+  },
+  {
+    "chapter": 5,
+    "contents": "Magical Moments",
+    "location": "Additional drop from Feral Behemoth",
+    "map": "Field Trial Range N",
+    "area": "The Gapra Whitewood",
+    "hashCode": 640868257
+  },
+  {
+    "chapter": 5,
+    "contents": "1,500 Gil",
+    "location": "Behind the energy fence left of the main path, guarded by a Feral Behemoth",
+    "map": "Environmental Regulation",
+    "area": "The Gapra Whitewood",
+    "hashCode": -1943564874
+  },
+  {
+    "chapter": 5,
+    "contents": "8 Fragrant Oils",
+    "location": "On the right side of the large area, guarded by Crawlers and a Feral Behemoth",
+    "map": "Environmental Regulation",
+    "area": "The Gapra Whitewood",
+    "hashCode": -232424144
+  },
+  {
+    "chapter": 5,
+    "contents": "Watchman's Amulet",
+    "location": "In the large pen left of the exit climb, guarded by a Barbed Specter and a Feral Behemoth",
+    "map": "Environmental Regulation",
+    "area": "The Gapra Whitewood",
+    "hashCode": -2069575066
+  },
+  {
+    "chapter": 5,
+    "contents": "Ethersol",
+    "location": "In plain sight near final save point",
+    "map": "Bioweapons Maintenance",
+    "area": "The Gapra Whitewood",
+    "hashCode": 112708448
+  },
+  {
+    "chapter": 5,
+    "contents": "Creature Comforts",
+    "location": "Additional drop from Aster Protoflorian",
+    "map": "Bioweapons Maintenance",
+    "area": "The Gapra Whitewood",
+    "hashCode": 30139643
+  },
+  {
+    "chapter": 6,
+    "contents": "8 Mysterious Fluids",
+    "location": "On a path to the left of the main path",
+    "map": "The Old Growth",
+    "area": "The Sunleth Waterscape",
+    "hashCode": 2008179565
+  },
+  {
+    "chapter": 6,
+    "contents": "Belladonna Wand",
+    "location": "In plain sight on the main path",
+    "map": "Sun-dappled Trail",
+    "area": "The Sunleth Waterscape",
+    "hashCode": -1808700320
+  },
+  {
+    "chapter": 6,
+    "contents": "Procyons",
+    "location": "On the right side of the circular area on the main path",
+    "map": "Sun-dappled Trail",
+    "area": "The Sunleth Waterscape",
+    "hashCode": -154308584
+  },
+  {
+    "chapter": 6,
+    "contents": "Doctor's Code",
+    "location": "On a path to the left of the main path",
+    "map": "Sun-dappled Trail",
+    "area": "The Sunleth Waterscape",
+    "hashCode": -409739254
+  },
+  {
+    "chapter": 6,
+    "contents": "15 Iron Shells",
+    "location": "On the left fork of the main path, guarded by a Scalebeast",
+    "map": "A Shimmering Sky",
+    "area": "The Sunleth Waterscape",
+    "hashCode": -1727322577
+  },
+  {
+    "chapter": 6,
+    "contents": "Librascope",
+    "location": "In plain sight on the main path",
+    "map": "A Shimmering Sky",
+    "area": "The Sunleth Waterscape",
+    "hashCode": -1204210406
+  },
+  {
+    "chapter": 6,
+    "contents": "10 Scaled Wings",
+    "location": "In plain sight on the main path, guarded by Gremlins",
+    "map": "A Shimmering Sky",
+    "area": "The Sunleth Waterscape",
+    "hashCode": -1470863227
+  },
+  {
+    "chapter": 6,
+    "contents": "Metal Armband",
+    "location": "On the first right fork on the main path",
+    "map": "Rain-spotted Vale",
+    "area": "The Sunleth Waterscape",
+    "hashCode": 154272893
+  },
+  {
+    "chapter": 6,
+    "contents": "Aqua Ring",
+    "location": "On the second left fork on the main path, guarded",
+    "map": "Rain-spotted Vale",
+    "area": "The Sunleth Waterscape",
+    "hashCode": -449754594
+  },
+  {
+    "chapter": 7,
+    "contents": "3 Fiber-optic Cables",
+    "location": "At the end of the U-shaped side path in the first area",
+    "map": "The Metrostile",
+    "area": "Palumpolum",
+    "hashCode": -1316368206
+  },
+  {
+    "chapter": 7,
+    "contents": "3 Holy Waters",
+    "location": "In the left side path from the pipe passage",
+    "map": "The Metrostile",
+    "area": "Palumpolum",
+    "hashCode": -208816665
+  },
+  {
+    "chapter": 7,
+    "contents": "Librascope",
+    "location": "In the dark area right from the exit of the last pipe passage",
+    "map": "The Metrostile",
+    "area": "Palumpolum",
+    "hashCode": 7918980
+  },
+  {
+    "chapter": 7,
+    "contents": "4 Holy Waters",
+    "location": "On the first secret platform",
+    "map": "Nutriculture Complex",
+    "area": "Palumpolum",
+    "hashCode": 1911273862
+  },
+  {
+    "chapter": 7,
+    "contents": "Phoenix Down",
+    "location": "On the first secret platform",
+    "map": "Nutriculture Complex",
+    "area": "Palumpolum",
+    "hashCode": -1522972049
+  },
+  {
+    "chapter": 7,
+    "contents": "2 Mobius Coils",
+    "location": "On the second secret platform, guarded by a Lucidon and a Flanitor",
+    "map": "Nutriculture Complex",
+    "area": "Palumpolum",
+    "hashCode": -1200388340
+  },
+  {
+    "chapter": 7,
+    "contents": "Aqua Ring",
+    "location": "On the second secret platform, guarded by a Lucidon and a Flanitor",
+    "map": "Nutriculture Complex",
+    "area": "Palumpolum",
+    "hashCode": 1435492721
+  },
+  {
+    "chapter": 7,
+    "contents": "Warding Talisman",
+    "location": "In plain sight on the main path",
+    "map": "Nutriculture Complex",
+    "area": "Palumpolum",
+    "hashCode": 672986596
+  },
+  {
+    "chapter": 7,
+    "contents": "Com Unit",
+    "location": "Added to inventory when Snow joins",
+    "map": "The Agora",
+    "area": "Palumpolum",
+    "hashCode": -1326866442
+  },
+  {
+    "chapter": 7,
+    "contents": "Fortisol",
+    "location": "At the far end of the first hall, guarded by a PSICOM Warlord and two Corps Pacifexes",
+    "map": "Pedestrian Terraces",
+    "area": "Palumpolum",
+    "hashCode": -1736498730
+  },
+  {
+    "chapter": 7,
+    "contents": "Paladin",
+    "location": "On the raised central platform, guarded by several troops",
+    "map": "Pedestrian Terraces",
+    "area": "Palumpolum",
+    "hashCode": -90647784
+  },
+  {
+    "chapter": 7,
+    "contents": "4 Insulated Cabling",
+    "location": "On the left side of the sunken hallway",
+    "map": "Pedestrian Terraces",
+    "area": "Palumpolum",
+    "hashCode": 1018920612
+  },
+  {
+    "chapter": 7,
+    "contents": "4 Holy Waters",
+    "location": "Behind Snow's starting point",
+    "map": "Western Promenade",
+    "area": "Palumpolum",
+    "hashCode": -1082326803
+  },
+  {
+    "chapter": 7,
+    "contents": "2 Incentive Chips",
+    "location": "At the end of the ledge accessible from the first corner in the area",
+    "map": "Western Promenade",
+    "area": "Palumpolum",
+    "hashCode": -1820009553
+  },
+  {
+    "chapter": 7,
+    "contents": "Guardian Amulet",
+    "location": "In plain sight near the save point",
+    "map": "Central Arcade",
+    "area": "Palumpolum",
+    "hashCode": -2016440195
+  },
+  {
+    "chapter": 7,
+    "contents": "Shaman's Mark",
+    "location": "Turn around after jumping down from the first set of ledges",
+    "map": "Rivera Towers",
+    "area": "Palumpolum",
+    "hashCode": 1526300111
+  },
+  {
+    "chapter": 7,
+    "contents": "Vidofnir",
+    "location": "On the right side of the scaffolding between buildings",
+    "map": "Rivera Towers",
+    "area": "Palumpolum",
+    "hashCode": 310322117
+  },
+  {
+    "chapter": 7,
+    "contents": "3 Thrust Bearings",
+    "location": "On the ledge between buildings, behind a sign",
+    "map": "Rivera Towers",
+    "area": "Palumpolum",
+    "hashCode": -1642422670
+  },
+  {
+    "chapter": 7,
+    "contents": "Deceptisol",
+    "location": "In the far right corner of a platform on the main path",
+    "map": "Rivera Towers",
+    "area": "Palumpolum",
+    "hashCode": 244218539
+  },
+  {
+    "chapter": 7,
+    "contents": "2,000 Gil",
+    "location": "On an L-shaped catwalk right of the main path",
+    "map": "Rivera Towers",
+    "area": "Palumpolum",
+    "hashCode": 1352330471
+  },
+  {
+    "chapter": 7,
+    "contents": "15 Bestial Claws",
+    "location": "Backtrack from Fang's starting point",
+    "map": "Western Promenade",
+    "area": "Palumpolum",
+    "hashCode": 1517852284
+  },
+  {
+    "chapter": 7,
+    "contents": "Gae Bolg",
+    "location": "In plain sight on the lower main path, guarded by an Orion and a PSICOM Scavenger",
+    "map": "Western Promenade",
+    "area": "Palumpolum",
+    "hashCode": -1590683136
+  },
+  {
+    "chapter": 7,
+    "contents": "Axis Blade",
+    "location": "On the right side at the far end of the area",
+    "map": "Central Arcade",
+    "area": "Palumpolum",
+    "hashCode": -99068043
+  },
+  {
+    "chapter": 7,
+    "contents": "Tungsten Bangle",
+    "location": "In the corner across from the starting point, guarded by troops",
+    "map": "Felix Heights",
+    "area": "Palumpolum",
+    "hashCode": -1386340823
+  },
+  {
+    "chapter": 7,
+    "contents": "Black Belt",
+    "location": "In the small L-shaped hallway, guarded by Corps Pacifexes",
+    "map": "Felix Heights",
+    "area": "Palumpolum",
+    "hashCode": -1243632862
+  },
+  {
+    "chapter": 7,
+    "contents": "8 Abominable Wings",
+    "location": "Additional drop from Ushumgal Subjugator",
+    "map": "Felix Heights",
+    "area": "Palumpolum",
+    "hashCode": 1975981927
+  },
+  {
+    "chapter": 7,
+    "contents": "Shield Talisman",
+    "location": "Additional drop from Ushumgal Subjugator",
+    "map": "Felix Heights",
+    "area": "Palumpolum",
+    "hashCode": -2022675667
+  },
+  {
+    "chapter": 7,
+    "contents": "Phoenix Down",
+    "location": "On the lawn outside Hope's house",
+    "map": "The Estheim Residence",
+    "area": "Palumpolum",
+    "hashCode": -658107601
+  },
+  {
+    "chapter": 7,
+    "contents": "Ethersol",
+    "location": "During attack, in an alcove near the save point",
+    "map": "The Estheim Residence",
+    "area": "Palumpolum",
+    "hashCode": -1242917282
+  },
+  {
+    "chapter": 7,
+    "contents": "Brawler's Wristband",
+    "location": "During attack, in dead-end hallway",
+    "map": "The Estheim Residence",
+    "area": "Palumpolum",
+    "hashCode": -161259840
+  },
+  {
+    "chapter": 7,
+    "contents": "Plautus's Workshop",
+    "location": "Additional drop from Havoc Skytank",
+    "map": "The Estheim Residence",
+    "area": "Palumpolum",
+    "hashCode": 1636839776
+  },
+  {
+    "chapter": 8,
+    "contents": "Phoenix Down",
+    "location": "At the end of the far left of the spiraling side paths",
+    "map": "Park Square",
+    "area": "Nautilus",
+    "hashCode": 344038440
+  },
+  {
+    "chapter": 8,
+    "contents": "Star Pendant",
+    "location": "Available after finding the chocobo chick four times",
+    "map": "Chocobo Corral",
+    "area": "Nautilus",
+    "hashCode": 1027493079
+  },
+  {
+    "chapter": 8,
+    "contents": "Spica Defenders",
+    "location": "On the third small circular platform, guarded by a Zwerg Metrodroid",
+    "map": "The Mall",
+    "area": "Nautilus",
+    "hashCode": -371070358
+  },
+  {
+    "chapter": 8,
+    "contents": "Guardian Amulet",
+    "location": "On the small circular platform right of the save point, guarded by an Orion",
+    "map": "The Clock Tower",
+    "area": "Nautilus",
+    "hashCode": 1011285937
+  },
+  {
+    "chapter": 8,
+    "contents": "Healer's Staff",
+    "location": "On the small circular platform left of the save point, guarded by Zwerg Metrodroids",
+    "map": "The Clock Tower",
+    "area": "Nautilus",
+    "hashCode": 79699719
+  },
+  {
+    "chapter": 8,
+    "contents": "The Motherlode",
+    "location": "Additional drop from Midlight Reaper",
+    "map": "The Clock Tower",
+    "area": "Nautilus",
+    "hashCode": -1581338272
+  },
+  {
+    "chapter": 8,
+    "contents": "Brynhildr Eidolith",
+    "location": "Additional drop from Brynhildr",
+    "map": "The Fiendlord's Keep",
+    "area": "Nautilus",
+    "hashCode": -1834451062
+  },
+  {
+    "chapter": 9,
+    "contents": "4 Digital Circuits",
+    "location": "On the right side of the scaffolding above the deck",
+    "map": "Short-field Landing Deck",
+    "area": "The Palamecia",
+    "hashCode": 1216902690
+  },
+  {
+    "chapter": 9,
+    "contents": "Millerite",
+    "location": "At the end of the platform right of the entrance, guarded by Deckdrones",
+    "map": "External Berths",
+    "area": "The Palamecia",
+    "hashCode": 809796938
+  },
+  {
+    "chapter": 9,
+    "contents": "3 Incentive Chips",
+    "location": "On a platform right of the main path, guarded by a PSICOM Dragoon",
+    "map": "External Berths",
+    "area": "The Palamecia",
+    "hashCode": 1943039893
+  },
+  {
+    "chapter": 9,
+    "contents": "3 Silicone Oils",
+    "location": "On the left side of the high ledge",
+    "map": "External Berths",
+    "area": "The Palamecia",
+    "hashCode": -9479657
+  },
+  {
+    "chapter": 9,
+    "contents": "Lifesaber",
+    "location": "In the corner of the right path in the main hallway",
+    "map": "Crew Corridors",
+    "area": "The Palamecia",
+    "hashCode": 1819709601
+  },
+  {
+    "chapter": 9,
+    "contents": "Ember Ring",
+    "location": "In the corner of the upward-tilting hallway",
+    "map": "Crew Corridors",
+    "area": "The Palamecia",
+    "hashCode": -1779347360
+  },
+  {
+    "chapter": 9,
+    "contents": "Pandoran Spear",
+    "location": "In plain sight on the right side of the final hallway",
+    "map": "Crew Corridors",
+    "area": "The Palamecia",
+    "hashCode": -1078267526
+  },
+  {
+    "chapter": 9,
+    "contents": "Royal Armlet",
+    "location": "In the room at the end of the right-side hallway, guarded by Flanborgs and a Flanitor",
+    "map": "Cargo Access",
+    "area": "The Palamecia",
+    "hashCode": 1663522795
+  },
+  {
+    "chapter": 9,
+    "contents": "12 Murky Oozes",
+    "location": "In plain sight near the exit door",
+    "map": "Cargo Access",
+    "area": "The Palamecia",
+    "hashCode": -1084796213
+  },
+  {
+    "chapter": 9,
+    "contents": "White Cape",
+    "location": "On the far right side of this area",
+    "map": "Rotary Shaft",
+    "area": "The Palamecia",
+    "hashCode": -1044835884
+  },
+  {
+    "chapter": 9,
+    "contents": "Rhodochrosite",
+    "location": "On the center ring, towards the entrance of the area",
+    "map": "Rotary Shaft",
+    "area": "The Palamecia",
+    "hashCode": -1413168724
+  },
+  {
+    "chapter": 9,
+    "contents": "Perfect Conductor",
+    "location": "On the center ring, towards the exit of the area",
+    "map": "Rotary Shaft",
+    "area": "The Palamecia",
+    "hashCode": -793221395
+  },
+  {
+    "chapter": 9,
+    "contents": "Pain Dampener",
+    "location": "On the far left side of the area",
+    "map": "Rotary Shaft",
+    "area": "The Palamecia",
+    "hashCode": -373156408
+  },
+  {
+    "chapter": 9,
+    "contents": "8 Segmented Carapaces",
+    "location": "On the left side of the area, guarded by Flanborgs",
+    "map": "Primary Engine Bay",
+    "area": "The Palamecia",
+    "hashCode": -2052158134
+  },
+  {
+    "chapter": 9,
+    "contents": "Phoenix Down",
+    "location": "At the back of the central platform",
+    "map": "Primary Engine Bay",
+    "area": "The Palamecia",
+    "hashCode": -78766941
+  },
+  {
+    "chapter": 9,
+    "contents": "Whistlewind Scarf",
+    "location": "Backtrack from Lightning's start point, guarded by Vespid Soldiers and a Viking",
+    "map": "Starboard Weather Deck",
+    "area": "The Palamecia",
+    "hashCode": -831608278
+  },
+  {
+    "chapter": 9,
+    "contents": "Perfect Conductor",
+    "location": "On the right side of the criss-crossing area, guarded by PSICOM Dragoons and a Viking",
+    "map": "Starboard Weather Deck",
+    "area": "The Palamecia",
+    "hashCode": -1722593190
+  },
+  {
+    "chapter": 9,
+    "contents": "13 Barbed Tails",
+    "location": "At the end of the ledge across from the second save point, guarded by PSICOM Dragoons",
+    "map": "Starboard Weather Deck",
+    "area": "The Palamecia",
+    "hashCode": -114533197
+  },
+  {
+    "chapter": 9,
+    "contents": "300 Gil",
+    "location": "In the last lower area (ride the tilting mechanism to get down)",
+    "map": "Starboard Weather Deck",
+    "area": "The Palamecia",
+    "hashCode": -189439754
+  },
+  {
+    "chapter": 9,
+    "contents": "Spark Ring",
+    "location": "In the corner of the final large area, guarded by PSICOM Dragoons",
+    "map": "Starboard Weather Deck",
+    "area": "The Palamecia",
+    "hashCode": 953075579
+  },
+  {
+    "chapter": 9,
+    "contents": "Librascope",
+    "location": "On the first platform on the left",
+    "map": "Bridge Access",
+    "area": "The Palamecia",
+    "hashCode": 1137861798
+  },
+  {
+    "chapter": 9,
+    "contents": "Pain Dampener",
+    "location": "On the platform backwards from the first platform on the left",
+    "map": "Bridge Access",
+    "area": "The Palamecia",
+    "hashCode": -1575091634
+  },
+  {
+    "chapter": 9,
+    "contents": "2 Rune Bracelets",
+    "location": "On the platform backwards from the first platform on the right",
+    "map": "Bridge Access",
+    "area": "The Palamecia",
+    "hashCode": 1581407770
+  },
+  {
+    "chapter": 9,
+    "contents": "Umbra",
+    "location": "On the second platform on the right",
+    "map": "Bridge Access",
+    "area": "The Palamecia",
+    "hashCode": 1725236800
+  },
+  {
+    "chapter": 9,
+    "contents": "3,600 Gil",
+    "location": "On the third platform on the left",
+    "map": "Bridge Access",
+    "area": "The Palamecia",
+    "hashCode": 457489768
+  },
+  {
+    "chapter": 9,
+    "contents": "Gold Bangle",
+    "location": "Beyond the fourth platform on the left",
+    "map": "Bridge Access",
+    "area": "The Palamecia",
+    "hashCode": 705358331
+  },
+  {
+    "chapter": 9,
+    "contents": "Perfect Conductor",
+    "location": "Beyond the fourth platform on the right",
+    "map": "Bridge Access",
+    "area": "The Palamecia",
+    "hashCode": -162552677
+  },
+  {
+    "chapter": 9,
+    "contents": "Ethersol",
+    "location": "Near the second save point",
+    "map": "Bridge Access",
+    "area": "The Palamecia",
+    "hashCode": 363842692
+  },
+  {
+    "chapter": 10,
+    "contents": "Hero's Amulet",
+    "location": "On the right side of the right middle platform, guarded by Pulsework Knights",
+    "map": "Vestibular Hold",
+    "area": "The Fifth Ark",
+    "hashCode": 1904132224
+  },
+  {
+    "chapter": 10,
+    "contents": "8 Bomb Shells",
+    "location": "On the left middle platform, guarded by Circuitrons",
+    "map": "Vestibular Hold",
+    "area": "The Fifth Ark",
+    "hashCode": -1048347124
+  },
+  {
+    "chapter": 10,
+    "contents": "Saint's Amulet",
+    "location": "At the end of the right side path leading backwards",
+    "map": "Lower Traverse",
+    "area": "The Fifth Ark",
+    "hashCode": 1204984831
+  },
+  {
+    "chapter": 10,
+    "contents": "10 Medicinal Oils",
+    "location": "On opposite side of wall in right side path leading forwards, guarded by Noctilucales",
+    "map": "Lower Traverse",
+    "area": "The Fifth Ark",
+    "hashCode": 1897602217
+  },
+  {
+    "chapter": 10,
+    "contents": "Rainbow Anklet",
+    "location": "Down the path opposite from the save point",
+    "map": "Lower Traverse",
+    "area": "The Fifth Ark",
+    "hashCode": 119480795
+  },
+  {
+    "chapter": 10,
+    "contents": "600 Gil",
+    "location": "In plain sight on the central path, guarded by a Skata'ne and a Stikini",
+    "map": "High Conflux",
+    "area": "The Fifth Ark",
+    "hashCode": -1095483028
+  },
+  {
+    "chapter": 10,
+    "contents": "Rigels",
+    "location": "In the far right corner of the Berserker room",
+    "map": "Hibernatorium",
+    "area": "The Fifth Ark",
+    "hashCode": 366544285
+  },
+  {
+    "chapter": 10,
+    "contents": "Auric Amulet",
+    "location": "In the near right side area in the first large room, guarded by Imps",
+    "map": "Inner Conduit",
+    "area": "The Fifth Ark",
+    "hashCode": -1035199488
+  },
+  {
+    "chapter": 10,
+    "contents": "Alicanto",
+    "location": "In plain sight on the main path after the second curved hall",
+    "map": "Inner Conduit",
+    "area": "The Fifth Ark",
+    "hashCode": 947194822
+  },
+  {
+    "chapter": 10,
+    "contents": "7 Gargantuan Claws",
+    "location": "On the second upper platform, guarded by Noctilucales and a Greater Behemoth",
+    "map": "Inner Conduit",
+    "area": "The Fifth Ark",
+    "hashCode": 1594779437
+  },
+  {
+    "chapter": 10,
+    "contents": "Metal Armband",
+    "location": "In the far right side area of the second large room, guarded by Imps",
+    "map": "Inner Conduit",
+    "area": "The Fifth Ark",
+    "hashCode": 1592607755
+  },
+  {
+    "chapter": 10,
+    "contents": "Ethersol",
+    "location": "Right of the second save point",
+    "map": "Inner Conduit",
+    "area": "The Fifth Ark",
+    "hashCode": 1618864083
+  },
+  {
+    "chapter": 10,
+    "contents": "Moogleworks",
+    "location": "Additional drop from Cid Raines",
+    "map": "Mezzanine",
+    "area": "The Fifth Ark",
+    "hashCode": 1617686308
+  },
+  {
+    "chapter": 10,
+    "contents": "Feymark",
+    "location": "In the right-side alcove after the two octagonal rooms",
+    "map": "The Synthrona",
+    "area": "The Fifth Ark",
+    "hashCode": 857889821
+  },
+  {
+    "chapter": 10,
+    "contents": "3 Electrodes",
+    "location": "In the third octagonal room, guarded by a Berserker",
+    "map": "Hypogeum",
+    "area": "The Fifth Ark",
+    "hashCode": 454259760
+  },
+  {
+    "chapter": 10,
+    "contents": "2 Otherworldly Bones",
+    "location": "In the left side path from the main path",
+    "map": "Substratal Conflux",
+    "area": "The Fifth Ark",
+    "hashCode": -1962363186
+  },
+  {
+    "chapter": 10,
+    "contents": "Bahamut Eidolith",
+    "location": "Additional drop from Bahamut",
+    "map": "The Apse",
+    "area": "The Fifth Ark",
+    "hashCode": -1908237402
+  },
+  {
+    "chapter": 11,
+    "contents": "Partisan",
+    "location": "In plain sight on the main path, guarded by a Dire Flan",
+    "map": "Fingers of Stone",
+    "area": "Vallis Media",
+    "hashCode": -2014629125
+  },
+  {
+    "chapter": 11,
+    "contents": "Alexander Eidolith",
+    "location": "Additional drop from Alexander",
+    "map": "Atzilut's Tears",
+    "area": "Vallis Media",
+    "hashCode": -792558388
+  },
+  {
+    "chapter": 11,
+    "contents": "Rod of Thorns",
+    "location": "On a small raised area, guarded by Gorgonopsids",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -656196027
+  },
+  {
+    "chapter": 11,
+    "contents": "Lightning Charm",
+    "location": "In the corner field right of the Southern Funnelway entrance, guarded by Flans and a Dire Flan",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -10619705
+  },
+  {
+    "chapter": 11,
+    "contents": "Wind Charm",
+    "location": "In a gap in the northeast part of the area, guarded by Rangdas",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 902117924
+  },
+  {
+    "chapter": 11,
+    "contents": "Zephyr Ring",
+    "location": "Near Cie'th stone 03, guarded by Rangdas",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -2055743171
+  },
+  {
+    "chapter": 11,
+    "contents": "Rune Bracelet",
+    "location": "Behind the small waterfall",
+    "map": "Atzilut's Tears",
+    "area": "Vallis Media",
+    "hashCode": 1466300084
+  },
+  {
+    "chapter": 11,
+    "contents": "9 Diabolic Tails",
+    "location": "In an area past the save point, guarded by Triffids",
+    "map": "The Tsubaddran Highlands",
+    "area": "Yaschas Massif",
+    "hashCode": 27525547
+  },
+  {
+    "chapter": 11,
+    "contents": "8 Esoteric Oils",
+    "location": "Under the path from the Tsubaddran Highlands, guarded by Triffids and Alraunes",
+    "map": "The Ascendant Scarp",
+    "area": "Yaschas Massif",
+    "hashCode": -1684793677
+  },
+  {
+    "chapter": 11,
+    "contents": "Rune Bracelet",
+    "location": "At the end of the second hanging tree branch after the first save point",
+    "map": "The Ascendant Scarp",
+    "area": "Yaschas Massif",
+    "hashCode": -819502688
+  },
+  {
+    "chapter": 11,
+    "contents": "1,827 Gil",
+    "location": "On the ledge above Cie'th stone 05",
+    "map": "The Ascendant Scarp",
+    "area": "Yaschas Massif",
+    "hashCode": 742098411
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Millerites",
+    "location": "At the end of the right fork",
+    "map": "The Ascendant Scarp",
+    "area": "Yaschas Massif",
+    "hashCode": 794736234
+  },
+  {
+    "chapter": 11,
+    "contents": "Watchman's Amulet",
+    "location": "In an area to the left of the main area, guarded by Rangas and Leyaks",
+    "map": "The Tsumitran Basin",
+    "area": "Yaschas Massif",
+    "hashCode": -867261805
+  },
+  {
+    "chapter": 11,
+    "contents": "Millerite",
+    "location": "At the end of the small path right of the main area, guarded by Rangdas",
+    "map": "The Tsumitran Basin",
+    "area": "Yaschas Massif",
+    "hashCode": 928975202
+  },
+  {
+    "chapter": 11,
+    "contents": "Glass Orb",
+    "location": "At the end of the main path, guarded by Gorgonopsids and a Svarog",
+    "map": "The Tsumitran Basin",
+    "area": "Yaschas Massif",
+    "hashCode": -1708593018
+  },
+  {
+    "chapter": 11,
+    "contents": "Mythril Bangle",
+    "location": "In plain sight on the right fork, guarded by Leyaks and a Rangda",
+    "map": "The Pass of Paddra",
+    "area": "Yaschas Massif",
+    "hashCode": 251593154
+  },
+  {
+    "chapter": 11,
+    "contents": "Rhodochrosite",
+    "location": "In the near corner of the large outside area",
+    "map": "The Paddraean Archaeopolis",
+    "area": "Yaschas Massif",
+    "hashCode": 1849160822
+  },
+  {
+    "chapter": 11,
+    "contents": "3 Spined Horns",
+    "location": "In the alcove opposite Cie'th stone 07",
+    "map": "The Paddraean Archaeopolis",
+    "area": "Yaschas Massif",
+    "hashCode": 1157032250
+  },
+  {
+    "chapter": 11,
+    "contents": "Whistlewind Scarf",
+    "location": "In the far corner of the Archaeopolis",
+    "map": "The Paddraean Archaeopolis",
+    "area": "Yaschas Massif",
+    "hashCode": -254137314
+  },
+  {
+    "chapter": 11,
+    "contents": "11 Monstrous Fangs",
+    "location": "Across from the save point",
+    "map": "Northern Highplain",
+    "area": "The Archylte Steppe",
+    "hashCode": -208273495
+  },
+  {
+    "chapter": 11,
+    "contents": "Gold Nugget",
+    "location": "In an eastern alcove, guarded by an Adamanchelid",
+    "map": "Northern Highplain",
+    "area": "The Archylte Steppe",
+    "hashCode": 1752867808
+  },
+  {
+    "chapter": 11,
+    "contents": "Gold Nugget",
+    "location": "In a western alcove, guarded by an Adamanchelid",
+    "map": "Northern Highplain",
+    "area": "The Archylte Steppe",
+    "hashCode": 914591988
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Platinum Bangles",
+    "location": "In a northern alcove, guarded by Behemoth Kings",
+    "map": "Northern Highplain",
+    "area": "The Archylte Steppe",
+    "hashCode": 1403079326
+  },
+  {
+    "chapter": 11,
+    "contents": "5 Severed Wings",
+    "location": "North of the outcropping with three ridges around it",
+    "map": "Western Benchland",
+    "area": "The Archylte Steppe",
+    "hashCode": -1692931746
+  },
+  {
+    "chapter": 11,
+    "contents": "5 Librascopes",
+    "location": "On a ledge overlooking the western area",
+    "map": "Western Benchland",
+    "area": "The Archylte Steppe",
+    "hashCode": 538156512
+  },
+  {
+    "chapter": 11,
+    "contents": "2,615 Gil",
+    "location": "Near the lake",
+    "map": "Western Benchland",
+    "area": "The Archylte Steppe",
+    "hashCode": -432429726
+  },
+  {
+    "chapter": 11,
+    "contents": "Millerite",
+    "location": "On a ledge overhanging the westernmost area, guarded by Rangdas",
+    "map": "Western Benchland",
+    "area": "The Archylte Steppe",
+    "hashCode": 2005829308
+  },
+  {
+    "chapter": 11,
+    "contents": "Fire Charm",
+    "location": "Near some ruins on a ledge in the westernmost area, guarded by Rangdas",
+    "map": "Western Benchland",
+    "area": "The Archylte Steppe",
+    "hashCode": -1205472366
+  },
+  {
+    "chapter": 11,
+    "contents": "Ice Charm",
+    "location": "Near some ruins in the westernmost area, guarded by Rangdas and a Leyak",
+    "map": "Western Benchland",
+    "area": "The Archylte Steppe",
+    "hashCode": -1133015580
+  },
+  {
+    "chapter": 11,
+    "contents": "8 Smooth Hides",
+    "location": "Near some ruins in the westernmost area, guarded by Leyaks and a Rangda",
+    "map": "Western Benchland",
+    "area": "The Archylte Steppe",
+    "hashCode": -1698396077
+  },
+  {
+    "chapter": 11,
+    "contents": "6 Seapetal Scales",
+    "location": "In the chocobo area",
+    "map": "The Font of Namva",
+    "area": "The Archylte Steppe",
+    "hashCode": 761443125
+  },
+  {
+    "chapter": 11,
+    "contents": "Water Charm",
+    "location": "At the far end of the area, guarded by Sahagins",
+    "map": "The Font of Namva",
+    "area": "The Archylte Steppe",
+    "hashCode": -543822557
+  },
+  {
+    "chapter": 11,
+    "contents": "Chocobo Tail Feather (repeatable)",
+    "location": "Examine the floating sparkle (marked on the map)",
+    "map": "The Font of Namva",
+    "area": "The Archylte Steppe",
+    "hashCode": 372146052
+  },
+  {
+    "chapter": 11,
+    "contents": "Scarletite",
+    "location": "Atop the ridge west of the lake, requires a chocobo",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 754926526
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Mnar Stones",
+    "location": "On an island in the lake, requires a chocobo",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -1074128982
+  },
+  {
+    "chapter": 11,
+    "contents": "Gold Nugget",
+    "location": "1st chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 99052505
+  },
+  {
+    "chapter": 11,
+    "contents": "Tetradic Crown",
+    "location": "5th chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -1732171627
+  },
+  {
+    "chapter": 11,
+    "contents": "Tetradic Tiara",
+    "location": "10th chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -379042969
+  },
+  {
+    "chapter": 11,
+    "contents": "Entite Ring",
+    "location": "15th chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 506525864
+  },
+  {
+    "chapter": 11,
+    "contents": "Ribbon",
+    "location": "20th chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 687325081
+  },
+  {
+    "chapter": 11,
+    "contents": "Millerite (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 278239043
+  },
+  {
+    "chapter": 11,
+    "contents": "Rhodochrosite (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -1099248641
+  },
+  {
+    "chapter": 11,
+    "contents": "Cobaltite (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 1216303193
+  },
+  {
+    "chapter": 11,
+    "contents": "Chocobo Plume (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -1383874746
+  },
+  {
+    "chapter": 11,
+    "contents": "Chocobo Tail Feather (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 1231250370
+  },
+  {
+    "chapter": 11,
+    "contents": "Gold Dust (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 1079988644
+  },
+  {
+    "chapter": 11,
+    "contents": "Dawnlight Dew (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 650244970
+  },
+  {
+    "chapter": 11,
+    "contents": "Dusklight Dew (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 205933173
+  },
+  {
+    "chapter": 11,
+    "contents": "Gold Nugget (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": 2120651464
+  },
+  {
+    "chapter": 11,
+    "contents": "Moogle Puppet (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -1532263885
+  },
+  {
+    "chapter": 11,
+    "contents": "Plush Chocobo (repeatable)",
+    "location": "Random chocobo digging prize (can be found anywhere on Archylte Steppe)",
+    "map": "Central Expanse",
+    "area": "The Archylte Steppe",
+    "hashCode": -1025237437
+  },
+  {
+    "chapter": 11,
+    "contents": "Gold Nugget",
+    "location": "On a cliff on the eastern side of the area, requires a chocobo",
+    "map": "Northern Highplain",
+    "area": "The Archylte Steppe",
+    "hashCode": 939981111
+  },
+  {
+    "chapter": 11,
+    "contents": "Clay Ring",
+    "location": "On the west side of the central cliff",
+    "map": "Eastern Tors",
+    "area": "The Archylte Steppe",
+    "hashCode": 2002669761
+  },
+  {
+    "chapter": 11,
+    "contents": "Cactuar Doll",
+    "location": "On a ledge on the central cliff",
+    "map": "Eastern Tors",
+    "area": "The Archylte Steppe",
+    "hashCode": 297761555
+  },
+  {
+    "chapter": 11,
+    "contents": "Speed Sash",
+    "location": "On a ledge in the southern area, guarded by Gorgonospids and a Megistotherian",
+    "map": "Eastern Tors",
+    "area": "The Archylte Steppe",
+    "hashCode": 1697096445
+  },
+  {
+    "chapter": 11,
+    "contents": "Earth Charm",
+    "location": "In an alcove on the eastern wall, guarded by Rangdas and a Navidon",
+    "map": "Eastern Tors",
+    "area": "The Archylte Steppe",
+    "hashCode": 171361640
+  },
+  {
+    "chapter": 11,
+    "contents": "7 Diabolic Tails",
+    "location": "On the cliff that leads to Aggra's Trouth, requires a chocobo",
+    "map": "Eastern Tors",
+    "area": "The Archylte Steppe",
+    "hashCode": 1971393591
+  },
+  {
+    "chapter": 11,
+    "contents": "Fluffy Wool",
+    "location": "Examine the indicated sheep",
+    "map": "Eastern Tors",
+    "area": "The Archylte Steppe",
+    "hashCode": -1985693608
+  },
+  {
+    "chapter": 11,
+    "contents": "Hauteclaire",
+    "location": "In plain sight on the main path",
+    "map": "Maw of the Abyss",
+    "area": "Mah'habara",
+    "hashCode": 1732462183
+  },
+  {
+    "chapter": 11,
+    "contents": "Platinum Bangle",
+    "location": "At the end of the left side path, guarded by a Juggernaut",
+    "map": "Maw of the Abyss",
+    "area": "Mah'habara",
+    "hashCode": 1977529113
+  },
+  {
+    "chapter": 11,
+    "contents": "4 Electrodes",
+    "location": "In the first alcove on the left side",
+    "map": "The Earthworks",
+    "area": "Mah'habara",
+    "hashCode": 1056093484
+  },
+  {
+    "chapter": 11,
+    "contents": "4 Chobham Armors",
+    "location": "In the second alcove on the left side",
+    "map": "The Earthworks",
+    "area": "Mah'habara",
+    "hashCode": -968655150
+  },
+  {
+    "chapter": 11,
+    "contents": "4 Tesla Turbines",
+    "location": "On a platform near the broken bridge",
+    "map": "Twilit Cavern",
+    "area": "Mah'habara",
+    "hashCode": 618780718
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Saint's Amulets",
+    "location": "In plain sight on the main path",
+    "map": "Twilit Cavern",
+    "area": "Mah'habara",
+    "hashCode": 44989533
+  },
+  {
+    "chapter": 11,
+    "contents": "Hecatoncheir Eidolith",
+    "location": "Additional drop from Hecatoncheir",
+    "map": "Flower-filled Fissure",
+    "area": "Mah'habara",
+    "hashCode": -1108798164
+  },
+  {
+    "chapter": 11,
+    "contents": "Ice Charm",
+    "location": "In plain sight on the left side of the main path",
+    "map": "Dusktide Grotto",
+    "area": "Mah'habara",
+    "hashCode": 1146935
+  },
+  {
+    "chapter": 11,
+    "contents": "Particle Accelerator",
+    "location": "On a platform right of the save point",
+    "map": "Dusktide Grotto",
+    "area": "Mah'habara",
+    "hashCode": -1522728036
+  },
+  {
+    "chapter": 11,
+    "contents": "3 Crystal Oscillators",
+    "location": "On a ledge right of the path leading from the central area",
+    "map": "Dusktide Grotto",
+    "area": "Mah'habara",
+    "hashCode": 1173800034
+  },
+  {
+    "chapter": 11,
+    "contents": "3 Perfect Conductors",
+    "location": "In plain sight on the main path on the lower of two metal platforms",
+    "map": "Dusktide Grotto",
+    "area": "Mah'habara",
+    "hashCode": -2073281674
+  },
+  {
+    "chapter": 11,
+    "contents": "13 Strange Fluids",
+    "location": "On the right side of the first large platform",
+    "map": "Subterranean Lake",
+    "area": "Sulyya Springs",
+    "hashCode": 1386184909
+  },
+  {
+    "chapter": 11,
+    "contents": "10 Enigmatic Fluids",
+    "location": "On the plus-shaped platform",
+    "map": "Subterranean Lake",
+    "area": "Sulyya Springs",
+    "hashCode": -859461789
+  },
+  {
+    "chapter": 11,
+    "contents": "Uraninite",
+    "location": "On the first platform created by the cutscene, guarded by Ceratoraptors and Orobons",
+    "map": "Subterranean Lake",
+    "area": "Sulyya Springs",
+    "hashCode": 800006540
+  },
+  {
+    "chapter": 11,
+    "contents": "Riptide Ring",
+    "location": "On the first platform created by the cutscene, guarded by Ceratoraptors and Orobons",
+    "map": "Subterranean Lake",
+    "area": "Sulyya Springs",
+    "hashCode": -445189098
+  },
+  {
+    "chapter": 11,
+    "contents": "Aquabane Brooch",
+    "location": "On the right side of the upper area",
+    "map": "Subterranean Lake",
+    "area": "Sulyya Springs",
+    "hashCode": 33375864
+  },
+  {
+    "chapter": 11,
+    "contents": "6 Moistened Scales",
+    "location": "On the left side of the upper area",
+    "map": "Subterranean Lake",
+    "area": "Sulyya Springs",
+    "hashCode": 631142157
+  },
+  {
+    "chapter": 11,
+    "contents": "5 Seapetal Scales",
+    "location": "At the back of the upper area",
+    "map": "Subterranean Lake",
+    "area": "Sulyya Springs",
+    "hashCode": -1868687728
+  },
+  {
+    "chapter": 11,
+    "contents": "Mnar Stone",
+    "location": "On the second platform created by the cutscene, guarded by Ceratoraptors and Orobons",
+    "map": "Subterranean Lake",
+    "area": "Sulyya Springs",
+    "hashCode": 399201212
+  },
+  {
+    "chapter": 11,
+    "contents": "Water Charm",
+    "location": "On the second platform created by the cutscene, guarded by Ceratoraptors and Orobons",
+    "map": "Subterranean Lake",
+    "area": "Sulyya Springs",
+    "hashCode": -308373147
+  },
+  {
+    "chapter": 11,
+    "contents": "7 Abyssal Scales",
+    "location": "In plain sight on the main path",
+    "map": "Ceiling of Sky",
+    "area": "Sulyya Springs",
+    "hashCode": 636123278
+  },
+  {
+    "chapter": 11,
+    "contents": "Cie'th Tear",
+    "location": "In plain sight on the main path",
+    "map": "The Skyreach",
+    "area": "Sulyya Springs",
+    "hashCode": -1086093007
+  },
+  {
+    "chapter": 11,
+    "contents": "20 Sinister Fangs",
+    "location": "In the far left corner of the wide path",
+    "map": "The Palisades",
+    "area": "Taejin's Tower",
+    "hashCode": -336927409
+  },
+  {
+    "chapter": 11,
+    "contents": "4,721 Gil",
+    "location": "In the area opposite the elevator",
+    "map": "Ground Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -845029919
+  },
+  {
+    "chapter": 11,
+    "contents": "Sparkbane Brooch",
+    "location": "On the outer wall counterclockwise from the elevator",
+    "map": "Ground Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -844043516
+  },
+  {
+    "chapter": 11,
+    "contents": "12 Chipped Fangs",
+    "location": "Near the right side of the elevator",
+    "map": "Ground Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -41512799
+  },
+  {
+    "chapter": 11,
+    "contents": "5 Spark Plugs",
+    "location": "At the far end of the inner walkway",
+    "map": "Second Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -1676646976
+  },
+  {
+    "chapter": 11,
+    "contents": "Simurgh",
+    "location": "On the stairs from the Second Tier",
+    "map": "Third Tier",
+    "area": "Taejin's Tower",
+    "hashCode": 266284822
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Metal Armbands",
+    "location": "At the near end of the inner walkway",
+    "map": "Third Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -382173992
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Glass Orbs",
+    "location": "At the end of the save point-side of the inner walkway",
+    "map": "Fourth Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -1265658323
+  },
+  {
+    "chapter": 11,
+    "contents": "9 Ancient Bones",
+    "location": "In the room with the elevator to the Fourth Tier",
+    "map": "Fifth Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -1780079228
+  },
+  {
+    "chapter": 11,
+    "contents": "Gale Ring",
+    "location": "At the end of the non-save point-side of the inner walkway",
+    "map": "Fourth Tier",
+    "area": "Taejin's Tower",
+    "hashCode": 1095506038
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Rainbow Anklets",
+    "location": "In the room with the elevator to the Sixth Tier",
+    "map": "Fourth Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -1156538707
+  },
+  {
+    "chapter": 11,
+    "contents": "4 Tears of Woe",
+    "location": "In the hidden third room on the Fourth Tier elevator side, guarded by a Vampire",
+    "map": "Sixth Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -230741565
+  },
+  {
+    "chapter": 11,
+    "contents": "Unsetting Sun",
+    "location": "Near the stairs in the hidden third room on the Fourth Tier elevator side",
+    "map": "Sixth Tier",
+    "area": "Taejin's Tower",
+    "hashCode": 1689893082
+  },
+  {
+    "chapter": 11,
+    "contents": "Librascope",
+    "location": "In the room with the stairs to the Sixth Tier",
+    "map": "Fifth Tier",
+    "area": "Taejin's Tower",
+    "hashCode": 349961316
+  },
+  {
+    "chapter": 11,
+    "contents": "8 Tears of Remorse",
+    "location": "In a room accessible from the main elevator, guarded by Chonchons and a Vampire",
+    "map": "Sixth Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -663247275
+  },
+  {
+    "chapter": 11,
+    "contents": "Clay Ring",
+    "location": "In a room accessible from the main elevator",
+    "map": "Sixth Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -1278758261
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Frostbane Brooches",
+    "location": "Directly across from the save point",
+    "map": "The Cloven Spire",
+    "area": "Taejin's Tower",
+    "hashCode": -97153612
+  },
+  {
+    "chapter": 11,
+    "contents": "Ethersol",
+    "location": "Near the path to Oerba",
+    "map": "The Cloven Spire",
+    "area": "Taejin's Tower",
+    "hashCode": -1777191408
+  },
+  {
+    "chapter": 11,
+    "contents": "Collector Catalog",
+    "location": "In plain sight on the inner path",
+    "map": "Seventh Tier",
+    "area": "Taejin's Tower",
+    "hashCode": -861371077
+  },
+  {
+    "chapter": 11,
+    "contents": "Perovskite",
+    "location": "Down a side road left of the main road",
+    "map": "Village Proper",
+    "area": "Oerba",
+    "hashCode": -615442280
+  },
+  {
+    "chapter": 11,
+    "contents": "Power Cable",
+    "location": "Examine the object of interest in the village square after finding Bhakti, guarded by Chonchons and Seekers",
+    "map": "Village Proper",
+    "area": "Oerba",
+    "hashCode": -1375243716
+  },
+  {
+    "chapter": 11,
+    "contents": "Battery Pack",
+    "location": "Examine the object of interest after finding Bhakti, guarded by a Vetala",
+    "map": "Desolate Mill",
+    "area": "Oerba",
+    "hashCode": -937845366
+  },
+  {
+    "chapter": 11,
+    "contents": "Heavenly Axis",
+    "location": "On the corner past the village square, guarded by a Seeker and a Vampire",
+    "map": "Village Proper",
+    "area": "Oerba",
+    "hashCode": 1505175417
+  },
+  {
+    "chapter": 11,
+    "contents": "Trochoid Gear",
+    "location": "Defeat the Vampire wandering amongst large roots after finding Bhakti",
+    "map": "Village Proper",
+    "area": "Oerba",
+    "hashCode": 1579155479
+  },
+  {
+    "chapter": 11,
+    "contents": "Librascope",
+    "location": "Up the stairs between sets of roots",
+    "map": "Village Proper",
+    "area": "Oerba",
+    "hashCode": 1061010207
+  },
+  {
+    "chapter": 11,
+    "contents": "Aspheric Lens",
+    "location": "Examine the object of interest after finding Bhakti, guarded by Chonchons and a Vetala",
+    "map": "Deserted Schoolhouse",
+    "area": "Oerba",
+    "hashCode": -75241920
+  },
+  {
+    "chapter": 11,
+    "contents": "Moogle Puppet",
+    "location": "On the upper floor",
+    "map": "Deserted Schoolhouse",
+    "area": "Oerba",
+    "hashCode": -104067805
+  },
+  {
+    "chapter": 11,
+    "contents": "Pleiades Hi-Powers",
+    "location": "On the upper floor",
+    "map": "Deserted Schoolhouse",
+    "area": "Oerba",
+    "hashCode": -1338241767
+  },
+  {
+    "chapter": 11,
+    "contents": "Metal Plate",
+    "location": "Examine the object of interest at the start of the area after finding Bhakti",
+    "map": "Rust-eaten Bridge",
+    "area": "Oerba",
+    "hashCode": 1114346925
+  },
+  {
+    "chapter": 11,
+    "contents": "10 Deceptisols",
+    "location": "Bhakti's reward for repairing it",
+    "map": "Dilapidated Dwelling",
+    "area": "Oerba",
+    "hashCode": -1887253052
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Ultracompact Reactors",
+    "location": "Bhakti's reward for taking 5,000 steps on Gran Pulse",
+    "map": "Dilapidated Dwelling",
+    "area": "Oerba",
+    "hashCode": 1203754172
+  },
+  {
+    "chapter": 11,
+    "contents": "Gold Nugget",
+    "location": "Bhakti's reward for taking 7,000 steps on Gran Pulse",
+    "map": "Dilapidated Dwelling",
+    "area": "Oerba",
+    "hashCode": -874015212
+  },
+  {
+    "chapter": 11,
+    "contents": "5 Perfumes",
+    "location": "Bhakti's reward for taking 9,000 steps on Gran Pulse",
+    "map": "Dilapidated Dwelling",
+    "area": "Oerba",
+    "hashCode": 801741138
+  },
+  {
+    "chapter": 11,
+    "contents": "3 Platinum Ingots",
+    "location": "Bhakti's reward for taking 10,000 steps on Gran Pulse",
+    "map": "Dilapidated Dwelling",
+    "area": "Oerba",
+    "hashCode": -685755899
+  },
+  {
+    "chapter": 11,
+    "contents": "Flamebane Brooch",
+    "location": "Left of the entrance to the area",
+    "map": "Rust-eaten Bridge",
+    "area": "Oerba",
+    "hashCode": -1747719201
+  },
+  {
+    "chapter": 11,
+    "contents": "Taming Pole",
+    "location": "Near the path between wrecked train cars, guarded by a Vetala",
+    "map": "Rust-eaten Bridge",
+    "area": "Oerba",
+    "hashCode": -1624071370
+  },
+  {
+    "chapter": 11,
+    "contents": "Ethersol",
+    "location": "Near the save point",
+    "map": "Rust-eaten Bridge",
+    "area": "Oerba",
+    "hashCode": 1023049535
+  },
+  {
+    "chapter": 11,
+    "contents": "6 Gloomstalks",
+    "location": "Near the wall next to the sheep herd",
+    "map": "Aggra's Pasture",
+    "area": "The Archylte Steppe",
+    "hashCode": -1820565559
+  },
+  {
+    "chapter": 11,
+    "contents": "Platinum Bangle",
+    "location": "In the far corner, guarded by Microchus and an Ochu",
+    "map": "Aggra's Pasture",
+    "area": "The Archylte Steppe",
+    "hashCode": 46672781
+  },
+  {
+    "chapter": 11,
+    "contents": "Thick Wool (repeatable)",
+    "location": "Random reward for finding a grown sheep in various areas",
+    "map": "Aggra's Pasture",
+    "area": "The Archylte Steppe",
+    "hashCode": 1807789918
+  },
+  {
+    "chapter": 11,
+    "contents": "Fluffy Wool (repeatable)",
+    "location": "Random reward for finding a grown sheep in various areas",
+    "map": "Aggra's Pasture",
+    "area": "The Archylte Steppe",
+    "hashCode": 1084181489
+  },
+  {
+    "chapter": 11,
+    "contents": "Rough Wool (repeatable)",
+    "location": "Random reward for finding a grown sheep in various areas",
+    "map": "Aggra's Pasture",
+    "area": "The Archylte Steppe",
+    "hashCode": 1789397954
+  },
+  {
+    "chapter": 11,
+    "contents": "Scraggly Wool (repeatable)",
+    "location": "Random reward for finding a grown sheep in various areas",
+    "map": "Aggra's Pasture",
+    "area": "The Archylte Steppe",
+    "hashCode": 175864495
+  },
+  {
+    "chapter": 11,
+    "contents": "3 Perfect Conductors",
+    "location": "At the end of the right side path on the left fork, guarded by Ferruginous Puddings and a Rust Pudding",
+    "map": "An Asylum from Light",
+    "area": "Mah'habara",
+    "hashCode": 915147250
+  },
+  {
+    "chapter": 11,
+    "contents": "Rainbow Anklet",
+    "location": "At the end of the right side path on the left fork, guarded by Ferruginous Puddings and a Rust Pudding",
+    "map": "An Asylum from Light",
+    "area": "Mah'habara",
+    "hashCode": 1240659223
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Metal Armbands",
+    "location": "Inside the first Cryohedron alcove, guarded by Cryohedrons",
+    "map": "An Asylum from Light",
+    "area": "Mah'habara",
+    "hashCode": 197252811
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Particle Accelerators",
+    "location": "Inside the second Cryohedron alcove, guarded by Cryohedrons",
+    "map": "An Asylum from Light",
+    "area": "Mah'habara",
+    "hashCode": 57082826
+  },
+  {
+    "chapter": 11,
+    "contents": "Moogle Puppet",
+    "location": "On a lowered platform right of the right fork path",
+    "map": "An Asylum from Light",
+    "area": "Mah'habara",
+    "hashCode": -558196852
+  },
+  {
+    "chapter": 11,
+    "contents": "Perovskite",
+    "location": "In the path after the loop",
+    "map": "Abandoned Dig",
+    "area": "Mah'habara",
+    "hashCode": 156323545
+  },
+  {
+    "chapter": 11,
+    "contents": "2 Particle Accelerators",
+    "location": "In the room opened during Mission 30",
+    "map": "Abandoned Dig",
+    "area": "Mah'habara",
+    "hashCode": -1986937393
+  },
+  {
+    "chapter": 11,
+    "contents": "4 Perfect Conductors",
+    "location": "In the room opened during Mission 30",
+    "map": "Abandoned Dig",
+    "area": "Mah'habara",
+    "hashCode": -469185800
+  },
+  {
+    "chapter": 11,
+    "contents": "Collector Catalog",
+    "location": "Inside the upper ruins, guarded by a Cactuar",
+    "map": "The Haerii Archaeopolis",
+    "area": "The Archylte Steppe",
+    "hashCode": -142885911
+  },
+  {
+    "chapter": 11,
+    "contents": "9 Fractured Horns",
+    "location": "Near a fallen stone in the far corner, guarded by a Pijavica",
+    "map": "The Haerii Archaeopolis",
+    "area": "The Archylte Steppe",
+    "hashCode": 1398461884
+  },
+  {
+    "chapter": 11,
+    "contents": "Witch's Bracelet",
+    "location": "Inside the shadowed ruins, guarded by Seekers and a Strigoi",
+    "map": "The Haerii Archaeopolis",
+    "area": "The Archylte Steppe",
+    "hashCode": 573987508
+  },
+  {
+    "chapter": 11,
+    "contents": "Gold Dust",
+    "location": "On the ledges left of the main path, guarded by Borgbears",
+    "map": "A Dance of Shadow",
+    "area": "The Faultwarrens",
+    "hashCode": 142446516
+  },
+  {
+    "chapter": 11,
+    "contents": "Starblossom Seed",
+    "location": "On the ledges right of the main path",
+    "map": "A Dance of Shadow",
+    "area": "The Faultwarrens",
+    "hashCode": -82466823
+  },
+  {
+    "chapter": 11,
+    "contents": "Zealot's Amulet",
+    "location": "At the end of a short path on the left, guarded by Borgbears",
+    "map": "Via Lunae",
+    "area": "The Faultwarrens",
+    "hashCode": 1835043841
+  },
+  {
+    "chapter": 11,
+    "contents": "Starblossom Seed",
+    "location": "On a path to the left of the main path",
+    "map": "Via Solis",
+    "area": "The Faultwarrens",
+    "hashCode": 768957796
+  },
+  {
+    "chapter": 11,
+    "contents": "Warding Talisman",
+    "location": "On the right-side path, guarded by Microchus and an Ochu",
+    "map": "The Gaian Path",
+    "area": "The Faultwarrens",
+    "hashCode": -1317361541
+  },
+  {
+    "chapter": 11,
+    "contents": "Starblossom Seed",
+    "location": "On the left-side path",
+    "map": "The Sylphid Path",
+    "area": "The Faultwarrens",
+    "hashCode": -1770829835
+  },
+  {
+    "chapter": 11,
+    "contents": "Cactuar Doll",
+    "location": "At the end of the far right path, guarded by Borgbears",
+    "map": "The Nereid Path",
+    "area": "The Faultwarrens",
+    "hashCode": -107270208
+  },
+  {
+    "chapter": 12,
+    "contents": "Grav-con Unit",
+    "location": "Obtained at start of Chapter 12",
+    "map": "Grand Prix Circuit",
+    "area": "Eden",
+    "hashCode": 1023018725
+  },
+  {
+    "chapter": 12,
+    "contents": "Sanctum Labs",
+    "location": "Additional drop from Anavatapta Warmech",
+    "map": "Grand Prix Circuit",
+    "area": "Eden",
+    "hashCode": 156513661
+  },
+  {
+    "chapter": 12,
+    "contents": "Lionheart",
+    "location": "In the middle of the area, near a float",
+    "map": "Grand Prix Circuit",
+    "area": "Eden",
+    "hashCode": 2053791961
+  },
+  {
+    "chapter": 12,
+    "contents": "9,240 Gil",
+    "location": "On the catwalks right of the second platform",
+    "map": "Grand Prix Circuit",
+    "area": "Eden",
+    "hashCode": 1207261800
+  },
+  {
+    "chapter": 12,
+    "contents": "Rebel Heart",
+    "location": "In plain sight on the right side of the main path",
+    "map": "Expressway",
+    "area": "Eden",
+    "hashCode": -469564042
+  },
+  {
+    "chapter": 12,
+    "contents": "Otshirvani",
+    "location": "In plain sight on the right side of the main path, guarded by a Proto-behemoth",
+    "map": "Expressway",
+    "area": "Eden",
+    "hashCode": 406180002
+  },
+  {
+    "chapter": 12,
+    "contents": "Punisher",
+    "location": "In plain sight on the right side of the main path",
+    "map": "Ramuh Interchange",
+    "area": "Eden",
+    "hashCode": -228742990
+  },
+  {
+    "chapter": 12,
+    "contents": "15,000 Gil",
+    "location": "On an offshoot road on the lower level",
+    "map": "Ramuh Interchange",
+    "area": "Eden",
+    "hashCode": 11357788
+  },
+  {
+    "chapter": 12,
+    "contents": "5 Perfect Conductors",
+    "location": "On the overhanging bridge",
+    "map": "Ramuh Interchange",
+    "area": "Eden",
+    "hashCode": -1549542294
+  },
+  {
+    "chapter": 12,
+    "contents": "2 Blaze Rings",
+    "location": "On a side path near the lower-level park",
+    "map": "Siren Park",
+    "area": "Eden",
+    "hashCode": 1550723135
+  },
+  {
+    "chapter": 12,
+    "contents": "Librascope",
+    "location": "In the looping turn off to the side",
+    "map": "Siren Park",
+    "area": "Eden",
+    "hashCode": -976628494
+  },
+  {
+    "chapter": 12,
+    "contents": "6 Particle Accelerators",
+    "location": "In the upper-level park",
+    "map": "Siren Park",
+    "area": "Eden",
+    "hashCode": -1905186766
+  },
+  {
+    "chapter": 12,
+    "contents": "Champion's Badge",
+    "location": "On the middle level of the second circle",
+    "map": "Siren Park",
+    "area": "Eden",
+    "hashCode": -1478913966
+  },
+  {
+    "chapter": 12,
+    "contents": "Antares Deluxes",
+    "location": "Beyond the first save point",
+    "map": "Leviathan Plaza",
+    "area": "Eden",
+    "hashCode": 985028461
+  },
+  {
+    "chapter": 12,
+    "contents": "Plush Chocobo",
+    "location": "Right side of the Edenhall entrance (cannot get this and left side treasure*)",
+    "map": "Leviathan Plaza",
+    "area": "Eden",
+    "hashCode": -1784299731
+  },
+  {
+    "chapter": 12,
+    "contents": "6 Particle Accelerators",
+    "location": "Left side of the Edenhall entrance (cannot get this and right side treasure*)",
+    "map": "Leviathan Plaza",
+    "area": "Eden",
+    "hashCode": 533470260
+  },
+  {
+    "chapter": 12,
+    "contents": "12 Hellish Talons",
+    "location": "Beyond the left-side turnstiles",
+    "map": "Leviathan Plaza",
+    "area": "Eden",
+    "hashCode": -789051247
+  },
+  {
+    "chapter": 12,
+    "contents": "17 Hellish Talons",
+    "location": "Beyond the right-side turnstiles",
+    "map": "Leviathan Plaza",
+    "area": "Eden",
+    "hashCode": 1636532715
+  },
+  {
+    "chapter": 12,
+    "contents": "Mistilteinn",
+    "location": "In plain sight on the main path",
+    "map": "Edenhall Grand Foyer",
+    "area": "Eden",
+    "hashCode": -26518366
+  },
+  {
+    "chapter": 12,
+    "contents": "Power Glove",
+    "location": "On the path past the second save point",
+    "map": "Edenhall",
+    "area": "Eden",
+    "hashCode": -31521124
+  },
+  {
+    "chapter": 12,
+    "contents": "Ethersol",
+    "location": "In plain sight on the main path, guarded by a Sacrifice",
+    "map": "Edenhall",
+    "area": "Eden",
+    "hashCode": 1296811090
+  },
+  {
+    "chapter": 12,
+    "contents": "Eden Pharmaceuticals",
+    "location": "Additional drop from the Proudclad",
+    "map": "Edenhall",
+    "area": "Eden",
+    "hashCode": -1419291530
+  },
+  {
+    "chapter": 13,
+    "contents": "Librascope",
+    "location": "Section 1: At the end of the furthest path, guarded by an Aquila Velocycle",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -498959456
+  },
+  {
+    "chapter": 13,
+    "contents": "Millerite",
+    "location": "Section 1: On top of the large platform, guarded by a Megrim Thresher",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -243473617
+  },
+  {
+    "chapter": 13,
+    "contents": "Cherub's Crown",
+    "location": "Section 1: On top of the large platform, guarded by a Megrim Thresher",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -499390466
+  },
+  {
+    "chapter": 13,
+    "contents": "4 Superchargers",
+    "location": "Section 2: Follow the right-side path from the start of the section",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 268319646
+  },
+  {
+    "chapter": 13,
+    "contents": "4 Perfect Conductors",
+    "location": "Section 2: At the end of the path with two hexagonal platforms",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -1241042641
+  },
+  {
+    "chapter": 13,
+    "contents": "5 Turboprops",
+    "location": "Section 2: Down the ramp near the two hexagonal platforms",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 935180423
+  },
+  {
+    "chapter": 13,
+    "contents": "2 Particle Accelerators",
+    "location": "Section 2: At the end of the left-side fork",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -1227242725
+  },
+  {
+    "chapter": 13,
+    "contents": "Uraninite",
+    "location": "Section 2: At the end of the right-side fork",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 1812755537
+  },
+  {
+    "chapter": 13,
+    "contents": "20 Seaking's Beards",
+    "location": "Section 3: In plain sight near the beginning of the section",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -1577069724
+  },
+  {
+    "chapter": 13,
+    "contents": "2 Aegisols",
+    "location": "Section 3: On the right side of the upper level",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 1435716768
+  },
+  {
+    "chapter": 13,
+    "contents": "9 Tears of Woe",
+    "location": "Section 3: On the left fork of the left side of the upper level",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 1290789755
+  },
+  {
+    "chapter": 13,
+    "contents": "Gale Ring",
+    "location": "Section 3: On the right fork of the left side of the upper level",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 864320743
+  },
+  {
+    "chapter": 13,
+    "contents": "Shamanic Spear",
+    "location": "Section 3: On the short path right of the main path, guarded by Dagonites",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 143528827
+  },
+  {
+    "chapter": 13,
+    "contents": "Tetradic Crown",
+    "location": "Section 4: At the far end of the section",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -1022984501
+  },
+  {
+    "chapter": 13,
+    "contents": "6 Starblossom Seeds",
+    "location": "Section 4: At the end of the right fork of the lower level",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -1302933346
+  },
+  {
+    "chapter": 13,
+    "contents": "8 Black Mycelia",
+    "location": "Section 4: On the first left side path from the left fork of the lower level",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 769754294
+  },
+  {
+    "chapter": 13,
+    "contents": "Rhodochrosite",
+    "location": "Section 4: On the second left side path from the left fork of the lower level",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -403801008
+  },
+  {
+    "chapter": 13,
+    "contents": "Weirding Glyph",
+    "location": "Section 5: On the upper level of the hidden area",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 55985194
+  },
+  {
+    "chapter": 13,
+    "contents": "Adamant Bangle",
+    "location": "Section 5: On the upper level of the hidden area",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -1682385582
+  },
+  {
+    "chapter": 13,
+    "contents": "Scarletite",
+    "location": "Section 5: On the lower level of the hidden area",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -119040308
+  },
+  {
+    "chapter": 13,
+    "contents": "Elixir",
+    "location": "Section 5: On the lower level of the hidden area",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": -1959278323
+  },
+  {
+    "chapter": 13,
+    "contents": "3,000 Gil",
+    "location": "Section 6: On the ramps leading up",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 1504733944
+  },
+  {
+    "chapter": 13,
+    "contents": "5,000 Gil",
+    "location": "Section 6: On the ramps leading up",
+    "map": "The Tesseracts",
+    "area": "Orphan's Cradle",
+    "hashCode": 1762899382
+  },
+  {
+    "chapter": 13,
+    "contents": "Ethersol",
+    "location": "In the final hallway",
+    "map": "The Narthex",
+    "area": "Orphan's Cradle",
+    "hashCode": -216574843
+  }
+]

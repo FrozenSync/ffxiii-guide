@@ -1,0 +1,20 @@
+{
+  "name": "final-fantasy-xiii-treasure-list-tracker",
+  "version": "1.0.0",
+  "description": "Convenient treasure chest guide for Final Fantasy XIII which allows you to keep track of your progress.",
+  "private": true,
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "windowsDebug": "@powershell -Command $env:DEBUG='*';npx eleventy"
+  },
+  "author": "Leroy Tin Truong",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.2"
+  },
+  "dependencies": {
+    "clean-css": "^4.2.1",
+    "uglify-js": "^3.5.6"
+  }
+}
